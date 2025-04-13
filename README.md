@@ -19,7 +19,7 @@
 - 🏗️ Currently working on:
   - Waste Management System
   - Mask Detection Project
-- 🏆 Does Bug bounty
+- 🏆 Does Bug bounty for fun 
 - ⚡ Fun fact: I love reverse engineering and tinkering with open-source tools
 
 ---
